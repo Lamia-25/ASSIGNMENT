@@ -22,8 +22,8 @@
     
 }
  .bean{
-    margin-top: -250px;
-    width: 400px;
+    margin-top: -300px;
+    width: 450px;
      padding-left:950px ; 
     /* padding-right: 100px; */
     /* /align-self: center; */
@@ -35,3 +35,57 @@
     padding-left: 150px;
     padding-bottom: -10px ;
 }
+.poppy{ 
+    padding-left: 100px;
+    margin-top: 50px;
+    font-size: 30px;
+}
+.banner{
+    /* display: flex; */
+    align-items: center;
+    margin-left: 100px;
+    justify-content: space-between;
+     box-shadow: 0px 2px 2px;
+     background-color:white;
+     padding:10px 51px 15px 10px ;
+     border-radius: 10px;
+}
+.sunflower{
+    display: flex;
+   justify-content: space-between;
+   margin-left: 150px;
+   margin-right: 200px;
+   margin-top: 30px;
+   border: 2px;
+   /* border-radius: 10px; */
+
+   ;
+}
+.joker{
+    font-size:35px;
+    padding-left: 100px;
+    margin-top: 40px;
+}
+.batman{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 300px;
+    margin-top: 30px;  
+}
+.ironman{
+    box-shadow: 0px 3px 3px;
+    padding:10px 15px 15px 10px;
+    background-color: #548ff5bb;
+}
+ .spiderman{
+    box-shadow: 0px 3px 3px;
+    padding:10px 15px 15px 10px;
+    background-color:#C6E4D6;
+ }  
+ .superman{
+    box-shadow: 0px 3px 3px;
+    padding:10px 15px 15px 10px;
+    background-color: #F7EBCF;
+
+ }
